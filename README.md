@@ -37,4 +37,4 @@ You can use your own settings by generating a *privacy-script.bat* file from tha
 - [ ] Use O&O Disabler
 - [ ] Download the asus drivers for my laptop (Tuf fx505dy)
 - [ ] Download AMD gpu drivers
-
+- [ ] Add Some Taskbar and other small tweaks
